@@ -1,7 +1,4 @@
 package com.himelz.listwithcard
-
-import com.google.android.gms.common.util.CollectionUtils.listOf
-
 data class User(
     val description: String
 )
